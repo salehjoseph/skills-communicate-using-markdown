@@ -16,6 +16,9 @@ Hello! I'm Sebaana Yusuf Salim (Joe Seb)🧑‍🚀, I am passionate about codin
 ## Contact Me
 Feel free to reach out to me via [www.sebu@gmail.com](mailto:www.sebyu@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sebaana-yusuf-215839247/).
 
+#### Gallery
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ## Follow Me
 Stay updated with my latest posts and activities:
 - [Twitter](https://twitter.com)
