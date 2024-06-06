@@ -7,6 +7,11 @@ Hello! I'm Sebaana Yusuf Salim (Joe Seb)🧑‍🚀, I am passionate about codin
 - **Post Title 2**: A brief description of what this post is about.
 - **Post Title 3**: A brief description of what this post is about.
 
+## Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ## Categories
 - **Technology**
 - **Lifestyle**
