@@ -34,3 +34,24 @@ Aenean feugiat, nisl nec bibendum semper, arcu risus pharetra dui, in dictum lac
 
 ### Travel Guide to Paris
 Suspendisse potenti. Morbi mattis sem at nulla laoreet vehicula.
+
+## Code Example
+
+Here’s a simple C# function that adds two numbers:
+
+```csharp
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        int result = Add(5, 3);
+        Console.WriteLine("The sum is: " + result);
+    }
+
+    static int Add(int a, int b)
+    {
+        return a + b;
+    }
+}
